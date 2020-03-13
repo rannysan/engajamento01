@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - principal",
+            "request": "launch",
+            "mainClass": "engajamento01.principal",
+            "projectName": "com.engajamento01"
+        }
+    ]
+}
